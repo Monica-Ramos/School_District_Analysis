@@ -30,16 +30,28 @@ From the previous images, we can conclude that the number of total students, sch
 
 * How is the school summary affected?
 
+As what was expected the only school which results were affected was Thomas High School. However the results did not have a very significant impact. 
+The school type, total students, total school budget and per student budget metrics remained the same for both analysis. The rest of the metrics did change a little.     * The avergae math score decreased from 83.42 to 83.35.  
+  * Average reading score increased from 83.84 to 83.90.
+  * % Passing math decreased from 93.27 yo 93.19.
+  * % Passing reading decreased from 97.31 yo 97.02.
+  * %Overall passing decreased from 90.95 to 90.63.
+  
+ In order to appreciate this changes the images below show the results for both analysis:
+
+## Original School Summary 
 ![](Resources/school_summary_original.png)
 
+## Modified School Summary
 ![](Resources/school_summary_modified.png)
 
 
 
+* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+Even tough some of the metrics decreased it value compared to the original results it did not affect the performance of Thomas High School relative to other schools. It maintains it place relative to the other schools.
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
+* How does replacing the ninth-grade scores affect the following:
+    *Math and reading scores by grade
 Scores by school spending
 Scores by school size
 Scores by school type
