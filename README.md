@@ -11,7 +11,9 @@ This project analyzes district school data regarding reading and math tests in o
 The district summary shows the results of the math and reading tests performance of all the schools in the district as well as the total budget. 
 The results from the first analysis are shown below:
 
-![][Resources/school_district_original]
+![][Resources/school_district_original.png]
+
+
 
 The 
 How is the school summary affected?
