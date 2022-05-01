@@ -31,18 +31,18 @@ From the previous images, we can conclude that the number of total students, sch
 * How is the school summary affected?
 
 As what was expected the only school which results were affected was Thomas High School. However the results did not have a very significant impact. 
-The school type, total students, total school budget and per student budget metrics remained the same for both analysis. The rest of the metrics did change a little.     * The avergae math score decreased from 83.42 to 83.35.  
-  * Average reading score increased from 83.84 to 83.90.
-  * % Passing math decreased from 93.27 yo 93.19.
-  * % Passing reading decreased from 97.31 yo 97.02.
-  * %Overall passing decreased from 90.95 to 90.63.
+The school type, total students, total school budget and per student budget metrics remained the same for both analysis. The rest of the metrics did change a little.      * The avergae math score decreased from 83.42 to 83.35.  
+   * Average reading score increased from 83.84 to 83.90.
+   * % Passing math decreased from 93.27 yo 93.19.
+   * % Passing reading decreased from 97.31 yo 97.02.
+   * %Overall passing decreased from 90.95 to 90.63.
   
  In order to appreciate this changes the images below show the results for both analysis:
 
-## Original School Summary 
+### Original School Summary 
 ![](Resources/school_summary_original.png)
 
-## Modified School Summary
+### Modified School Summary
 ![](Resources/school_summary_modified.png)
 
 
@@ -51,17 +51,17 @@ The school type, total students, total school budget and per student budget metr
 
 Although some of the metrics decreased their value compared to the original results it did not affect the performance of Thomas High School relative to other schools. Thomas High School maintains its second place in both analysis.This can be shown with the next images.
 
-## Original Top Schools
+### Original Top Schools
 
 ![](Resources/top_schools_original.png)
 
-## Modified Top Schools
+## # Modified Top Schools
 ![](Resources/top_schools_modified.png)
 
 
 * How does replacing the ninth-grade scores affect the following:
  
-    *Math and reading scores by grade
+    * Math and reading scores by grade
     There was no significant change rather that in the second analysis, in 9th grade for Thomas High School instead of having a numerica value it appears with nan.
     This same effect is presented in both math and reading, but the rest of the values for the table remained the same.
     
