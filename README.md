@@ -51,11 +51,10 @@ The school type, total students, total school budget and per student budget metr
 
 Although some of the metrics decreased their value compared to the original results it did not affect the performance of Thomas High School relative to other schools. Thomas High School maintains its second place in both analysis.This can be shown with the next images.
 
-### Original Top Schools
-
+#### Original Top Schools
 ![](Resources/top_schools_original.png)
 
-## # Modified Top Schools
+#### Modified Top Schools
 ![](Resources/top_schools_modified.png)
 
 
@@ -66,21 +65,28 @@ Although some of the metrics decreased their value compared to the original resu
     This same effect is presented in both math and reading, but the rest of the values for the table remained the same.
     
     * Scores by school spending
-
+    There were no changes in the score by school spending DataFrame. We can se from both images that they are exactly the same for both analysis.
+    #### Original Scores by school spending
     ![](Resources/scores_by_spending_original.png)
+    
+    #### Modified Scores by school spending
     ![](Resources/scores_by_spending_modified.png)
     
     * Scores by school size
+    There were no changes in the scores by school size by changind the ninth grade scores.
+     #### Original Scores by school size
     ![](Resources/scores_school_size_original.png)
+    
+    #### Modified Scores by school size
     ![](Resources/scores_school_size_modified.png)
 
-    ![](Resources/scores_school_size_original.png)
-
-    ![](Resources/scores_school_size_modified.png)
 
     * Scores by school type
+    The same occurs for the scores by school type, there were no changes in both analysis.
+    #### Original Scores by school type
     ![](Resources/scores_school_type_original.png)
     
+    #### Modified Scores by school type
     ![](Resources/scores_school_type_modified.png)
     
 
