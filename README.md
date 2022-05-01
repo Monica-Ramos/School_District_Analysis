@@ -15,7 +15,7 @@ The results from the first analysis are shown below:
 
 The results from the second analysis are shown next:
 
-![][Resources/school_district_original.png]]
+![][Resources/school_district_modified.png]
 
 
 The 
