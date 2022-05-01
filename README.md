@@ -39,10 +39,10 @@ The school type, total students, total school budget and per student budget metr
   
  In order to appreciate this changes the images below show the results for both analysis:
 
-### Original School Summary 
+#### Original School Summary 
 ![](Resources/school_summary_original.png)
 
-### Modified School Summary
+#### Modified School Summary
 ![](Resources/school_summary_modified.png)
 
 
