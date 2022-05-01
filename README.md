@@ -13,6 +13,8 @@ The results from the first analysis are shown below:
 
 ![][Resources/school_district_original.png]
 
+The results from the second analysis are shown next:
+![][Resources/school_district_original.png]]
 
 
 The 
