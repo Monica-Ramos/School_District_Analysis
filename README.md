@@ -65,6 +65,7 @@ Although some of the metrics decreased their value compared to the original resu
     This same effect is presented in both math and reading, but the rest of the values for the table remained the same.
     
     * Scores by school spending
+    
     There were no changes in the score by school spending DataFrame. We can se from both images that they are exactly the same for both analysis.
     #### Original Scores by school spending
     ![](Resources/scores_by_spending_original.png)
@@ -73,6 +74,7 @@ Although some of the metrics decreased their value compared to the original resu
     ![](Resources/scores_by_spending_modified.png)
     
     * Scores by school size
+    
     There were no changes in the scores by school size by changind the ninth grade scores.
      #### Original Scores by school size
     ![](Resources/scores_school_size_original.png)
@@ -82,6 +84,8 @@ Although some of the metrics decreased their value compared to the original resu
 
 
     * Scores by school type
+
+
     The same occurs for the scores by school type, there were no changes in both analysis.
     #### Original Scores by school type
     ![](Resources/scores_school_type_original.png)
