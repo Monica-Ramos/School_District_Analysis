@@ -48,13 +48,41 @@ The school type, total students, total school budget and per student budget metr
 
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Even tough some of the metrics decreased it value compared to the original results it did not affect the performance of Thomas High School relative to other schools. It maintains it place relative to the other schools.
+
+Although some of the metrics decreased their value compared to the original results it did not affect the performance of Thomas High School relative to other schools. Thomas High School maintains its second place in both analysis. This can be shown with the next images.
+
+## Original Top Schools
+
+![](Resources/top_schools_original.png)
+
+## Modified Top Schools
+![](Resources/top_schools_modified.png)
+
 
 * How does replacing the ninth-grade scores affect the following:
+ 
     *Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+    There was no significant change rather than in the second analysis, in 9th grade for Thomas High School instead of having a numerica value it appears with nan.This can be shown with the next figure:
+    
+    
+    
+    
+    
+    * Scores by school spending
+    
+    * Scores by school size
+    
+
+    ![](Resources/scores_school_size_original.png)
+
+    ![](Resources/scores_school_size_modified.png)
+
+    * Scores by school type
+    ![](Resources/scores_school_type_original.png)
+    
+    ![](Resources/scores_school_type_modified.png)
+    
 
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+s
