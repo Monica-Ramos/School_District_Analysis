@@ -95,5 +95,9 @@ Although some of the metrics decreased their value compared to the original resu
     
 
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-s
+## Summary: 
+
+With this report we were able to see that the modification in the 9th grade students scores for math and reading have a small impact in the school district summary. However it did change some values. The metrics that were decreased in the pdated school district analysis were average math score, % math passing, % reading passing and % overall passing. The only metric that increased was average reading .
+The replacement of the ninth grader scores did not change the position of Thomas High School regarding the other schools. 
+There were no changes in the following DataFrames: scores by school spending, scores by school size, scores by school type.
+The only change in the math and reading scores DataFrame was that the 9th grade students in Thomas Hig School did not have a numeric value reported, instead they had a nan, until the situation is resolved with their case.
